@@ -1,2 +1,2 @@
 1234
-from testGit_A
+from A
