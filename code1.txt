@@ -32,3 +32,8 @@ public class Shop
 
 	public void ShowNewArrival(){}
 }
+
+public class Shop2
+{
+
+}
