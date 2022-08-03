@@ -14,3 +14,10 @@ void notify(string s)
 {
    doSomething();
 }
+
+
+
+public class Shop
+{
+	public void Show(){}
+}
