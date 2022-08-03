@@ -23,5 +23,6 @@ public class Shop
 	
 	public void InitData(){}
 	public void Refresh(){}
-	
+
+	public void ShowNewArrival(){}
 }
