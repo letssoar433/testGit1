@@ -35,5 +35,5 @@ public class Shop
 
 public class Shop2
 {
-
+	//Do some thing in 상점2 branch.
 }
