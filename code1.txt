@@ -15,3 +15,9 @@ void notify(string s)
 	MasterDoing();
 	doSomething();   
 }
+
+void MasterDoing()
+{
+	CreateMaster();
+	InitMaster();	
+}
