@@ -21,3 +21,14 @@ void MasterDoing()
 	CreateMaster();
 	InitMaster();	
 }
+
+
+public class Shop
+{
+	public void Show(){}
+	
+	public void InitData(){}
+	public void Refresh(){}
+
+	public void ShowNewArrival(){}
+}
