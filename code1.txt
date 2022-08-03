@@ -20,4 +20,8 @@ void notify(string s)
 public class Shop
 {
 	public void Show(){}
+	
+	public void InitData(){}
+	public void Refresh(){}
+	
 }
