@@ -9,8 +9,9 @@ BBB
 
 b working 2
 
-//알람기능 구현 
+//알람기능 구현 - 마스터 
 void notify(string s)
 {
-   doSomething();
+	MasterDoing();
+	doSomething();   
 }
