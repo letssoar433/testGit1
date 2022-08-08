@@ -25,4 +25,11 @@ public class Shop
 	public void Refresh(){}
 
 	public void ShowNewArrival(){}
+	
+	
+	public void ShowNewBrand()
+	{
+		// nike 
+	}
+	
 }
