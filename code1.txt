@@ -41,7 +41,6 @@ public class Shop2
 	public void ShowNewBrand()
 	{
 		// nike 
-		// nike2
 	}
 	
 }
