@@ -1,44 +1,5 @@
-AAA
-
-
-A의 작업 진행. 
-
-
-B의 작업 진행 행행
-BBB
-
-b working 2
-
-//알람기능 구현 - 마스터 
-void notify(string s)
-{
-	MasterDoing();
-	doSomething();   
-}
-
-void MasterDoing()
-{
-	CreateMaster();
-	InitMaster();	
-}
-
-
 public class Shop
 {
-	public void Show(){}
-	
-	public void InitData(){}
-	public void Refresh(){}
-
-	public void ShowNewArrival(){}
-}
-
-public class Shop2
-{
-	// master -> main 으로 local repository rename.
-	// master shop 버그 픽스.
-	//Do some thing in 상점2 branch. 
-
 	public void ShowNewBrand()
 	{
 		// nike 
