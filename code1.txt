@@ -35,6 +35,7 @@ public class Shop
 
 public class Shop2
 {
+	// master -> main 으로 local repository rename.
 	// master shop 버그 픽스.
 	//Do some thing in 상점2 branch. 
 
