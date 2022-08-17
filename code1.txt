@@ -43,5 +43,8 @@ public class Shop2
 		// nike 
 		// adidas
 	}
-	
+
+	public void Open()
+	{
+	}
 }
