@@ -42,6 +42,7 @@ public class Shop2
 	{
 		// nike 
 		// adidas
+		// adidas 1+1
 	}
 	
 }
