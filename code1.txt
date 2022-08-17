@@ -41,6 +41,9 @@ public class Shop2
 	public void ShowNewBrand()
 	{
 		// nike 
+		// adidas
+		// 룰루레몬
+		// 언더아머
 	}
 	
 }
