@@ -15,5 +15,9 @@ public class Shop
 		popup.show();
 	}
 	
+	public void test11()
+	{
+		//implement new contents.
+	}
 	
 }
