@@ -12,5 +12,8 @@ public class Shop
 	
 	public void Popup()
 	{
+		popup.show();
 	}
+	
+	
 }
