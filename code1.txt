@@ -9,4 +9,8 @@ public class Shop
 	public void Open()
 	{
 	}
+	
+	public void Popup()
+	{
+	}
 }
