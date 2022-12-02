@@ -1,6 +1,7 @@
 public class Shop
 {
 	public int varA = 0;
+	public int varB = 100;
 	
 	public void ShowNewBrand()
 	{
