@@ -1,5 +1,7 @@
 public class Shop
 {
+	public int varA = 100;
+	
 	public void ShowNewBrand()
 	{
 		// nike 
