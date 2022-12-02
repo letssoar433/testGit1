@@ -1,7 +1,13 @@
 public class Shop
 {
+<<<<<<< HEAD
+	//여긴 내꺼
 	public int varA = 0;
 	public int varB = 100;
+=======
+	//여긴 다른사람꺼.
+	public int varA = 100;
+>>>>>>> c48023e9ec2d85319167ca0e083d846d3f477a29
 	
 	public void ShowNewBrand()
 	{
@@ -18,5 +24,9 @@ public class Shop
 		popup.show();
 	}
 	
+	public void test11()
+	{
+		//implement new contents.
+	}
 	
 }
