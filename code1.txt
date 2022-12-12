@@ -10,12 +10,7 @@ public class Shop
 >>>>>>> c48023e9ec2d85319167ca0e083d846d3f477a29
 	
 	
-<<<<<<< .merge_file_a53492
-	//B커밋
-=======
-	// A커밋 
-	// no push
->>>>>>> .merge_file_a51708
+	// A커밋으로 머지 함. 
 	
 	public void ShowNewBrand()
 	{
