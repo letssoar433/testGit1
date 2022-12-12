@@ -9,6 +9,9 @@ public class Shop
 	public int varA = 100;
 >>>>>>> c48023e9ec2d85319167ca0e083d846d3f477a29
 	
+	
+	//B커밋
+	
 	public void ShowNewBrand()
 	{
 		// nike 
